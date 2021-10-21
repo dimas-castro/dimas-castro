@@ -1,13 +1,11 @@
 [![MasterHead](https://github.com/dimas-castro/dimas-castro/blob/main/header.png)](https://github.com/dimas-castro/)
 
 <div>
-  <p align="justify"> Atualmente estudo na Universidade Federal do ABC em Santo André, onde curso o Bacharelado Interdisciplinar em Ciência e Tecnologia e também Ciência da Computação, participo do Projeto de Extensão ARANDU onde desenvolvemos com os alunos do ensino básico das escolas públicas da região do campus um picosatélite com base em conteúdos de programação, modelagem, astronáutica e eletrônica. No momento estou trabalhando com a criação de gamificações utilizando o Unity Engine e estudando Node.js e Typescript.</p> 
+  <p align="justify"> Atualmente estudo na Universidade Federal do ABC em Santo André, onde curso o Bacharelado Interdisciplinar em Ciência e Tecnologia e também Ciência da Computação, participo do Projeto de Extensão <a href = "https://www.instagram.com/ufabcarandu/">ARANDU</a> onde desenvolvemos com os alunos do ensino básico das escolas públicas da região do campus um picosatélite com base em conteúdos de programação, modelagem, astronáutica e eletrônica. No momento estou trabalhando com a criação de gamificações utilizando o Unity Engine e estudando Node.js e Typescript.</p> 
   <div align="right">
     <a href = "mailto:dimasdecastrofilho@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" style="max-width = 100%;"></a>
-    <a href = "https://twitter.com/dimasdecastro" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank" style="max-width = 100%;"></a>
-    <a href="https://instagram.com/dimascastrof" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" style="max-width = 100%;"></a>
+    <a href="https://instagram.com/dimascastrof" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%231DA1F2?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" style="max-width = 100%;"></a>
   </div>
-
 </div>
 
 <div align="center"><br>
